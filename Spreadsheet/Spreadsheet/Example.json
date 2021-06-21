@@ -1,0 +1,139 @@
+{
+  "result": 1,
+  "data": [
+      {
+        "MONDAY": "-",
+        "TUESDAY": "-",
+        "WEDNSDAY": "-",
+        "THURSDAY": "Lab",
+        "FRIDAY": "-",
+        "SATURDAY": "Computer",
+        "SUNDAY": "-",
+        "PERIOD": "08:00 AM"
+      },
+    {
+      "MONDAY": "English",
+      "TUESDAY": "Math",
+      "WEDNSDAY": "-",
+      "THURSDAY": "Physics",
+      "FRIDAY": "Lab",
+      "SATURDAY": "Computer",
+      "SUNDAY": "Urdu",
+      "PERIOD": "09:00 AM"
+    },
+    {
+      "MONDAY": "S.Study",
+      "TUESDAY": "Biology",
+      "WEDNSDAY": "Chemistry",
+      "THURSDAY": "-",
+      "FRIDAY": "Hindi",
+      "SATURDAY": "Math",
+      "SUNDAY": "Lab",
+      "PERIOD": "10:00 AM"
+    },
+    {
+      "MONDAY": "Physics",
+      "TUESDAY": "Chemistry",
+      "WEDNSDAY": "English",
+      "THURSDAY": "Computer",
+      "FRIDAY": "Hindi",
+      "SATURDAY": "-",
+      "SUNDAY": "S.Study",
+      "PERIOD": "11:00 AM"
+    },
+    {
+      "MONDAY": "-",
+      "TUESDAY": "S.Study",
+      "WEDNSDAY": "Physics",
+      "THURSDAY": "Math",
+      "FRIDAY": "Chemistry",
+      "SATURDAY": "-",
+      "SUNDAY": "Computer",
+      "PERIOD": "12:00 PM"
+    },
+    {
+      "MONDAY": "Lunch",
+      "TUESDAY": "Lunch",
+      "WEDNSDAY": "Lunch",
+      "THURSDAY": "Lunch",
+      "FRIDAY": "Lunch",
+      "SATURDAY": "Lunch",
+      "SUNDAY": "Lunch",
+      "PERIOD": "01:00 PM"
+    },
+    {
+      "MONDAY": "English",
+      "TUESDAY": "Math",
+      "WEDNSDAY": "-",
+      "THURSDAY": "Physics",
+      "FRIDAY": "Lab",
+      "SATURDAY": "Computer",
+      "SUNDAY": "Urdu",
+      "PERIOD": "02:00 PM"
+    },{
+      "MONDAY": "Physics",
+      "TUESDAY": "Chemistry",
+      "WEDNSDAY": "English",
+      "THURSDAY": "Computer",
+      "FRIDAY": "Hindi",
+      "SATURDAY": "-",
+      "SUNDAY": "S.Study",
+      "PERIOD": "03:00 PM"
+    },{
+      "MONDAY": "S.Study",
+      "TUESDAY": "Biology",
+      "WEDNSDAY": "Chemistry",
+      "THURSDAY": "-",
+      "FRIDAY": "Hindi",
+      "SATURDAY": "Math",
+      "SUNDAY": "Lab",
+      "PERIOD": "04:00 PM"
+    },{
+      "MONDAY": "Chemistry",
+      "TUESDAY": "Lab",
+      "WEDNSDAY": "-",
+      "THURSDAY": "-",
+      "FRIDAY": "-",
+      "SATURDAY": "-",
+      "SUNDAY": "-",
+      "PERIOD": "05:00 PM"
+    },{
+      "MONDAY": "-",
+      "TUESDAY": "-",
+      "WEDNSDAY": "-",
+      "THURSDAY": "-",
+      "FRIDAY": "-",
+      "SATURDAY": "-",
+      "SUNDAY": "-",
+      "PERIOD": "06:00 PM"
+    },{
+      "MONDAY": "-",
+      "TUESDAY": "-",
+      "WEDNSDAY": "-",
+      "THURSDAY": "-",
+      "FRIDAY": "-",
+      "SATURDAY": "-",
+      "SUNDAY": "-",
+      "PERIOD": "07:00 PM"
+    },{
+      "MONDAY": "-",
+      "TUESDAY": "-",
+      "WEDNSDAY": "-",
+      "THURSDAY": "-",
+      "FRIDAY": "-",
+      "SATURDAY": "-",
+      "SUNDAY": "-",
+      "PERIOD": "08:00 PM"
+    },{
+      "MONDAY": "-",
+      "TUESDAY": "-",
+      "WEDNSDAY": "-",
+      "THURSDAY": "-",
+      "FRIDAY": "-",
+      "SATURDAY": "-",
+      "SUNDAY": "-",
+      "PERIOD": "09:00 PM"
+    }
+  ],
+  "message": ""
+}
